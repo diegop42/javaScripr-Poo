@@ -1,5 +1,4 @@
 {
-  
   "name": "bytebank",
   "version": "1.0.0",
   "description": "Projeto do bytebank para seus clientes",
@@ -8,6 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "type": "module",
-  "license": "ISC"
+  "license": "ISC",
+  "type": "module"
 }
